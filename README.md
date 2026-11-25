@@ -8,7 +8,7 @@
 
 **Una aplicación de MusixLab**
 
-[ABRIR FIFTHER](https://edugogo66-arch.github.io/fifthter/)
+[ABRIR FIFTHER](https://edugogo66-arch.github.io/fifther/)
 
 </div>
 
